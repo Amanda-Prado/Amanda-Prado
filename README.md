@@ -1,1 +1,1 @@
-### Oii! Eu sou a Amanda 🌺
+### Oii! Eu sou a Amanda   🌺

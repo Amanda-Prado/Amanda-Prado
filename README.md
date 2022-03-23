@@ -9,7 +9,8 @@
 </div>
   
 <div>
-  <a href="https://picasion.com/"><img src="https://media.discordapp.net/attachments/956024755599843338/956024859123650560/picasion.com_f0bb32843c683989d248db1d45c6a659.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+  <a href="">
+    <img src="https://media.discordapp.net/attachments/956024755599843338/956024859123650560/picasion.com_f0bb32843c683989d248db1d45c6a659.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
   </div>
 
   <div>

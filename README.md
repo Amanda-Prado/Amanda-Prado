@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Amanda   🌺
 - 🔭 Atualmente estou trabalhando com  Suporte Técnico
-- 🌱 Estudando Html
+- 🌱 Estudando Html e Css
 - 😄 Pronomes:Ela/Dela
 <div>
   <a href="https://beacons.al/amanda-prado">  

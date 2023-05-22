@@ -1,51 +1,53 @@
-### Oii! Eu sou a Amanda   🌺
-- 😄 Pronomes:Ela/Dela
-- 🌱 Estudando JavaScript e React
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-<img align="center" width="850" src="https://i.pinimg.com/originals/2c/93/f8/2c93f8e12b88e39cb4ff926ed3b9133f.gif"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Amanda+Prado;Tenho+20+anos;Curso+Ciência+Da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align=center>
-  <a href="https://beacons.al/amanda-prado">  
-  <img height=“180em” src="https://github-readme-stats.vercel.app/api?username=amanda-prado&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height=“180em” src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-prado&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
-<div align=center>
-  <a href="">
-    <img src="https://media.discordapp.net/attachments/956024755599843338/956024859123650560/picasion.com_f0bb32843c683989d248db1d45c6a659.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
-  </div>
-  
-<br>
-  
-  <!--Skills -->
- <h2 align = center>
- Linguagens em Aprendizado
-</h2>
-  
-<div align="center">
- <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Git" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="GitHub" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanda-prado&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
 
-  <div>
- 
- 
-![Snake animation](https://github.com/amanda-prado/amanda-prado/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanda-prado&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <div align=center>
-    <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+  <a href="">
+    <img src="https://media.discordapp.net/attachments/1110069724588539975/1110069877391241216/Amanda_gif.gif?width=427&height=427" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
   </div>
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amanda-prado&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Amanda Prado github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-prado&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/amanda-prado-76a952208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+<div align="center">
+  
+ ### Hard skills:
+ <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+ <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+
+
+### Estudando no momento:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  </div>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{amanda-prado}/count.svg" /></p> 
+<br>
+</div>
+
+ <div align="center">
+ 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>

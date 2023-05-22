@@ -1,7 +1,6 @@
 ### Oii! Eu sou a Amanda   🌺
-- 🔭 Atualmente estou trabalhando com  Suporte Técnico
-- 🌱 Estudando Java e Python
 - 😄 Pronomes:Ela/Dela
+- 🌱 Estudando JavaScript e React
 
 <img align="center" width="850" src="https://i.pinimg.com/originals/2c/93/f8/2c93f8e12b88e39cb4ff926ed3b9133f.gif"/>
 
